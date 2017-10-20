@@ -1,0 +1,8 @@
+.my-background-image{
+    background-image: url('BACKGROUND/leaves.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 300px;
+}
